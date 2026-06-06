@@ -13,3 +13,4 @@ I built this project to deepen my understanding of PCB design, keyboard matrix l
 <img width="1202" height="513" alt="602219280-15e8cf9d-5e58-42b5-828d-d92529df9ab9" src="https://github.com/user-attachments/assets/77f87780-82b9-4d3b-8608-5d7fbb75e876" />
 <img width="1091" height="414" alt="602219214-5e932b3e-5503-4928-bb83-d3fdaf1ea26e" src="https://github.com/user-attachments/assets/8f2f7e9e-ccc0-402d-a43d-cdbc5256a4a1" />
 <img width="1088" height="467" alt="602218932-bbe01e49-c888-48cc-bc79-f7ac42afa11e" src="https://github.com/user-attachments/assets/e88c5bfb-0c91-436f-b1ca-0c2ec479902c" />
+<img width="1578" height="409" alt="Screenshot 2026-06-06 160548" src="https://github.com/user-attachments/assets/7e858b17-061c-420c-b1e6-8b6640bd6976" />
